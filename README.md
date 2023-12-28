@@ -13,7 +13,7 @@ The source code presented in this project has been written by LSEG only for the 
 
 ## <a name="prerequisites"></a>Prerequisites
 
-To execute the notebook, you will require a desktop license for LSEG Workspace or Eikon.
+To execute the notebook, you will require a desktop license for LSEG Workspace.
 
 - Notebook can be directly loaded into LSEG CodeBook
 - Optional example test application runs on the command line
